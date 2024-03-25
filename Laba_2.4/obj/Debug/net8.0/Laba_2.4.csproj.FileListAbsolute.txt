@@ -1,0 +1,14 @@
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/bin/Debug/net8.0/Laba_2.4
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/bin/Debug/net8.0/Laba_2.4.deps.json
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/bin/Debug/net8.0/Laba_2.4.runtimeconfig.json
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/bin/Debug/net8.0/Laba_2.4.dll
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/bin/Debug/net8.0/Laba_2.4.pdb
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.AssemblyInfoInputs.cache
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.AssemblyInfo.cs
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.csproj.CoreCompileInputs.cache
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.dll
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/refint/Laba_2.4.dll
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.pdb
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/Laba_2.4.genruntimeconfig.cache
+/Users/johnsid/RiderProjects/Laba_2.1/Laba_2.4/obj/Debug/net8.0/ref/Laba_2.4.dll
