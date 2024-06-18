@@ -1,0 +1,6 @@
+/Users/johnsid/RiderProjects/MageBattleLaba5/MageBattleLaba5/bin/Debug/MageBattleLaba5.exe
+/Users/johnsid/RiderProjects/MageBattleLaba5/MageBattleLaba5/bin/Debug/MageBattleLaba5.pdb
+/Users/johnsid/RiderProjects/MageBattleLaba5/MageBattleLaba5/obj/Debug/MageBattleLaba5.csproj.AssemblyReference.cache
+/Users/johnsid/RiderProjects/MageBattleLaba5/MageBattleLaba5/obj/Debug/MageBattleLaba5.csproj.CoreCompileInputs.cache
+/Users/johnsid/RiderProjects/MageBattleLaba5/MageBattleLaba5/obj/Debug/MageBattleLaba5.exe
+/Users/johnsid/RiderProjects/MageBattleLaba5/MageBattleLaba5/obj/Debug/MageBattleLaba5.pdb
